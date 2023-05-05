@@ -8,6 +8,8 @@ class Hello_World {
         // Exercise 1
         System.out.println("Hello \nAlexandra Abramov\n");
         // Exercise 2
-        System.out.println(74+36);
+        System.out.println(74+36+ "\n");
+        // Exercise 3
+        System.out.println(50/3);
     }
 }
