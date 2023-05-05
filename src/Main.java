@@ -11,5 +11,10 @@ class Hello_World {
         System.out.println(74+36+ "\n");
         // Exercise 3
         System.out.println(50/3);
+        // Exercise 4
+        System.out.println(-5 + 8 * 6);
+        System.out.println((55+9) % 9);
+        System.out.println(20 + -3*5 / 8);
+        System.out.println(5 + 15 / 3 * 2 - 8 % 3+ "\n");
     }
 }
